@@ -28,7 +28,7 @@ To experience the full functionality of our e-commerce website, you can access i
 - **User Credentials**: To access the homepage, you can use the following sample credentials: (sample@gmail.com, 12345).
 
 ### Contributions
-Team 14 - Pranav, Sivani, Vishnu
+Team 14 - Pranav, Sivani, Vishnu.
 We welcome contributions from the open-source community. If you're interested in collaborating or have any suggestions for improvements, please feel free to submit pull requests or raise issues on this repository.
 
 ### Get in Touch
